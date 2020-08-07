@@ -1,0 +1,7 @@
+I used a free "clean" template to assist with the design.  The website I chose is:
+
+https://demo.themewagon.com/preview/product-landing-html5-bootstrap-template-free-download-wow
+
+Font Awesome is really awesome - needed to change the icons
+
+https://fontawesome.com/v4.7.0/icons/
