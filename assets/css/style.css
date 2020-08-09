@@ -281,6 +281,14 @@ i.fa-heart{
     margin-right: auto;
     padding-bottom: 20px;
 }
+.img-charts{
+    padding-top: 10px;
+    width: 100%;
+    /* margin: 0px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
 .generic-p{
     padding-bottom: 20px;
     font-size: 18px;
